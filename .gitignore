@@ -1,0 +1,15 @@
+# Ambiente virtual e credenciais
+.venv/
+.env
+
+# Dados baixados e temporários
+data/
+*.csv
+*.zip
+
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários do Jupyter
+.ipynb_checkpoints/
